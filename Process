@@ -1,0 +1,9 @@
+b)Proses (Process)
+Proses adalah struktur data 
+yang melacak status 
+eksekusi suatu tugas. 
+Tugas adalah konsep umum, 
+sedangkan proses adalah implementasi dari 
+tugas tersebut. 
+Dalam sistem operasi umum, sebuah tugas
+biasanya berupa program.
